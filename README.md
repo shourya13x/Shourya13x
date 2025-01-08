@@ -1,3 +1,4 @@
+![logo](https://github.com/shourya13x/Shourya-Gupta13/blob/main/background.jpeg)
 <h1 align="center">Hi 👋, I'm Shourya Gupta</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
