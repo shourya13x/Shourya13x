@@ -7,26 +7,28 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Full-Stack+Developer;Gen+AI+Developer;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Full-Stack+Developer;Gen+AI+Developer;🦇+Batman+of+Code+🦇" alt="Typing SVG" />
   
   <!-- Profile views counter -->
   <img src="https://komarev.com/ghpvc/?username=shourya13x&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
----
+
+<!-- Cool animated divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bb/bd/4e/bbbd4e78ca4a5477eec5e7aaf1432be3.gif">
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/a9R4Chg.gif">
 
 > *"The best way to predict the future is to invent it."* — Alan Kay
 
-🦇 **Software Engineer** passionate about creating innovative solutions and building amazing applications. Like Batman with his gadgets, I equip myself with cutting-edge technologies to fight bugs and create digital solutions that make a difference. My journey spans from competitive programming to full-stack development, always driven by curiosity and the desire to build something meaningful.
+🦇 **Software Engineer** passionate about creating innovative solutions and building amazing applications. Like Batman with his gadgets, I equip myself with cutting-edge technologies to fight bugs and create digital solutions that make a difference. My journey spans from data structures and algorithms to full-stack development, always driven by curiosity and the desire to build something meaningful.
 
 ### 🎯 Currently Focused On:
 - 📱 **Mobile App Development** — Building cross-platform Flutter applications
 - 💻 **Full-Stack Development** — Creating scalable web and mobile solutions
 - 🤖 **Gen AI Development** — Leveraging LLMs and modern AI tools
-- 🏆 **Competitive Programming** — Always sharpening problem-solving skills
+- 📊 **Data Structures & Algorithms** — Mastering problem-solving fundamentals
 
 ### ⚡ Batman's Arsenal (My Skills):
 *"It's not who I am underneath, but what I do that defines me."* 🦇
@@ -35,12 +37,24 @@
 <div align="center">
   
 [![LeetCode](https://img.shields.io/badge/LeetCode-Shouryagupta13-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Shouryagupta13/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-devpool-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/devpool)
-[![CodeChef](https://img.shields.io/badge/CodeChef-shouryagupta13-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/shouryagupta13)
   
 </div>
 
----
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="images/breakout-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="images/breakout-light.svg"
+    />
+    <img alt="GitHub Breakout Game" src="images/breakout-light.svg" />
+  </picture>
+  </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💻 Tech Stack
 
@@ -83,30 +97,36 @@
   
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Analytics
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shourya13x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shourya13x&layout=compact&langs_count=8&theme=tokyonight"/>
+  <!-- GitHub Stats Cards -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shourya13x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=20&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_color=30363D"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shourya13x&layout=compact&langs_count=8&theme=tokyonight&border_radius=20&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D"/>
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shourya13x&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=shourya13x&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak Stats"/>
   
 </div>
 
+<!-- Cool Metrics -->
 <div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shourya13x&theme=tokyo-night&hide_border=true" width="100%"/>
-  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shourya13x&theme=github_dark" alt="Profile Summary"/>
 </div>
 
----
+<!-- Trophy Display -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shourya13x&theme=onedark&column=7&no-frame=true&no-bg=true" alt="Trophies"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## ⭐ Featured Projects
 
@@ -138,21 +158,24 @@ A modern news aggregation mobile application built with Flutter that delivers pe
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏅 Competitive Programming Journey
+## 🏅 Data Structures & Algorithms Journey
 
 <div align="center">
-  
-| Platform | Profile | Achievements |
-|:---:|:---:|:---:|
-| 💻 **[LeetCode](https://leetcode.com/u/Shouryagupta13/)** | Shouryagupta13 | Active Problem Solver |
-| 🔥 **[Codeforces](https://codeforces.com/profile/devpool)** | devpool | Regular Contestant |
-| ⭐ **[CodeChef](https://www.codechef.com/users/shouryagupta13)** | shouryagupta13 | Competitive Programmer |
+
+**Mastering problem-solving fundamentals through consistent practice and algorithmic thinking**
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Shouryagupta13-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Shouryagupta13/)
+
+*DSA Problem Solver & Algorithm Expert*
+
+<!-- LeetCode Stats Card -->
+<img src="https://leetcard.jacoblin.cool/Shouryagupta13?theme=dark&font=Noto%20Sans&ext=contest" alt="LeetCode Stats"/>
   
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌐 Connect With Me
 
@@ -173,7 +196,7 @@ Whether you're looking to discuss the latest in technology, need a development p
   
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   
@@ -184,23 +207,18 @@ Whether you're looking to discuss the latest in technology, need a development p
 🦇 **"I am vengeance, I am the night, I am... a Developer!"** 
 
 ⚡ **Fun fact:** I am Tech-Savvy 👨‍💻 | Batman enthusiast 🦇 | Always coding in the shadows
+
+<!-- Random Dev Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
   
 </div>
 
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="images/breakout-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="images/breakout-light.svg"
-    />
-    <img alt="GitHub Breakout Game" src="images/breakout-light.svg" />
-  </picture>
-</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions"/>
 </div>
